@@ -1,0 +1,127 @@
+{
+  "report_date": "2026-11-09",
+  "subjects": [
+    {
+      "key": "stable",
+      "display_name": "[시연] 안정 추이",
+      "daily": [
+        { "date": "2026-10-26", "breathing_rate_bpm": 15.1, "active_time_sec": 13920 },
+        { "date": "2026-10-27", "breathing_rate_bpm": 15.4, "active_time_sec": 14400 },
+        { "date": "2026-10-28", "breathing_rate_bpm": 15.8, "active_time_sec": 15240 },
+        { "date": "2026-10-29", "breathing_rate_bpm": 15.2, "active_time_sec": 14040 },
+        { "date": "2026-10-30", "breathing_rate_bpm": 15.7, "active_time_sec": 14820 },
+        { "date": "2026-10-31", "breathing_rate_bpm": 16, "active_time_sec": 14520 },
+        { "date": "2026-11-01", "breathing_rate_bpm": 15.5, "active_time_sec": 14160 },
+        { "date": "2026-11-02", "breathing_rate_bpm": 15.2, "active_time_sec": 14580 },
+        { "date": "2026-11-03", "breathing_rate_bpm": 15.7, "active_time_sec": 14100 },
+        { "date": "2026-11-04", "breathing_rate_bpm": 15.6, "active_time_sec": 15000 },
+        { "date": "2026-11-05", "breathing_rate_bpm": 15.4, "active_time_sec": 14340 },
+        { "date": "2026-11-06", "breathing_rate_bpm": 15.9, "active_time_sec": 14760 },
+        { "date": "2026-11-07", "breathing_rate_bpm": 15.3, "active_time_sec": 14220 },
+        { "date": "2026-11-08", "breathing_rate_bpm": 15.8, "active_time_sec": 14880 }
+      ],
+      "events": []
+    },
+    {
+      "key": "dawn-warning",
+      "display_name": "[시연] 새벽 주의 증가",
+      "daily": [
+        { "date": "2026-10-26", "breathing_rate_bpm": 15.2, "active_time_sec": 16020 },
+        { "date": "2026-10-27", "breathing_rate_bpm": 15.4, "active_time_sec": 16320 },
+        { "date": "2026-10-28", "breathing_rate_bpm": 16, "active_time_sec": 15840 },
+        { "date": "2026-10-29", "breathing_rate_bpm": 15.6, "active_time_sec": 16920 },
+        { "date": "2026-10-30", "breathing_rate_bpm": 15.5, "active_time_sec": 15600 },
+        { "date": "2026-10-31", "breathing_rate_bpm": 16.1, "active_time_sec": 15960 },
+        { "date": "2026-11-01", "breathing_rate_bpm": 15.8, "active_time_sec": 15300 },
+        { "date": "2026-11-02", "breathing_rate_bpm": 16.6, "active_time_sec": 14700 },
+        { "date": "2026-11-03", "breathing_rate_bpm": 16.9, "active_time_sec": 13800 },
+        { "date": "2026-11-04", "breathing_rate_bpm": 17.2, "active_time_sec": 15300 },
+        { "date": "2026-11-05", "breathing_rate_bpm": 17.4, "active_time_sec": 14400 },
+        { "date": "2026-11-06", "breathing_rate_bpm": 16.8, "active_time_sec": 13200 },
+        { "date": "2026-11-07", "breathing_rate_bpm": 17.6, "active_time_sec": 13920 },
+        { "date": "2026-11-08", "breathing_rate_bpm": 17.1, "active_time_sec": 14160 }
+      ],
+      "events": [
+        {
+          "timestamp": "2026-10-29T04:18:00+09:00",
+          "status_level": "WARNING",
+          "event_type": "BREATHING_VARIATION",
+          "duration_sec": 30
+        },
+        {
+          "timestamp": "2026-11-02T02:24:00+09:00",
+          "status_level": "WARNING",
+          "event_type": "BREATHING_VARIATION",
+          "duration_sec": 45
+        },
+        {
+          "timestamp": "2026-11-04T03:41:00+09:00",
+          "status_level": "WARNING",
+          "event_type": "BREATHING_VARIATION",
+          "duration_sec": 35
+        },
+        {
+          "timestamp": "2026-11-06T05:12:00+09:00",
+          "status_level": "WARNING",
+          "event_type": "BREATHING_VARIATION",
+          "duration_sec": 50
+        },
+        {
+          "timestamp": "2026-11-08T04:37:00+09:00",
+          "status_level": "WARNING",
+          "event_type": "BREATHING_VARIATION",
+          "duration_sec": 40
+        }
+      ]
+    },
+    {
+      "key": "fall-history",
+      "display_name": "[시연] 낙상 의심 이력",
+      "daily": [
+        { "date": "2026-10-26", "breathing_rate_bpm": 16.5, "active_time_sec": 16200 },
+        { "date": "2026-10-27", "breathing_rate_bpm": 16.1, "active_time_sec": 17280 },
+        { "date": "2026-10-28", "breathing_rate_bpm": 16.8, "active_time_sec": 15600 },
+        { "date": "2026-10-29", "breathing_rate_bpm": 16.4, "active_time_sec": 16080 },
+        { "date": "2026-10-30", "breathing_rate_bpm": 16.7, "active_time_sec": 17700 },
+        { "date": "2026-10-31", "breathing_rate_bpm": 16.3, "active_time_sec": 15960 },
+        { "date": "2026-11-01", "breathing_rate_bpm": 16.9, "active_time_sec": 15120 },
+        { "date": "2026-11-02", "breathing_rate_bpm": 16.6, "active_time_sec": 15720 },
+        { "date": "2026-11-03", "breathing_rate_bpm": 17, "active_time_sec": 14820 },
+        { "date": "2026-11-04", "breathing_rate_bpm": 16.5, "active_time_sec": 13500 },
+        { "date": "2026-11-05", "breathing_rate_bpm": 16.2, "active_time_sec": 9900 },
+        { "date": "2026-11-06", "breathing_rate_bpm": 16.8, "active_time_sec": 11340 },
+        { "date": "2026-11-07", "breathing_rate_bpm": 16.4, "active_time_sec": 12660 },
+        { "date": "2026-11-08", "breathing_rate_bpm": 16.6, "active_time_sec": 13200 }
+      ],
+      "events": [
+        {
+          "timestamp": "2026-11-05T14:32:00+09:00",
+          "status_level": "EMERGENCY",
+          "event_type": "FALL_SUSPECTED",
+          "duration_sec": null
+        }
+      ]
+    },
+    {
+      "key": "missing",
+      "display_name": "[시연] 일부 측정 누락",
+      "daily": [
+        { "date": "2026-10-26", "breathing_rate_bpm": 14.3, "active_time_sec": 12000 },
+        { "date": "2026-10-27", "breathing_rate_bpm": 14.8, "active_time_sec": 12840 },
+        { "date": "2026-10-28", "breathing_rate_bpm": null, "active_time_sec": null },
+        { "date": "2026-10-29", "breathing_rate_bpm": 14.6, "active_time_sec": 11580 },
+        { "date": "2026-10-30", "breathing_rate_bpm": 15.2, "active_time_sec": 12600 },
+        { "date": "2026-10-31", "breathing_rate_bpm": 14.9, "active_time_sec": 13140 },
+        { "date": "2026-11-01", "breathing_rate_bpm": 15, "active_time_sec": 12960 },
+        { "date": "2026-11-02", "breathing_rate_bpm": 15.1, "active_time_sec": 12480 },
+        { "date": "2026-11-03", "breathing_rate_bpm": null, "active_time_sec": null },
+        { "date": "2026-11-04", "breathing_rate_bpm": 15.4, "active_time_sec": 13620 },
+        { "date": "2026-11-05", "breathing_rate_bpm": 15.2, "active_time_sec": 13080 },
+        { "date": "2026-11-06", "breathing_rate_bpm": null, "active_time_sec": null },
+        { "date": "2026-11-07", "breathing_rate_bpm": 15.7, "active_time_sec": 13320 },
+        { "date": "2026-11-08", "breathing_rate_bpm": 15.3, "active_time_sec": 12540 }
+      ],
+      "events": []
+    }
+  ]
+}

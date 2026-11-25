@@ -1,0 +1,2 @@
+# Current PostgreSQL / FastAPI application dependencies.
+-r requirements-api.txt
